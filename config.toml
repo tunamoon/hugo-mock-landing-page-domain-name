@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://tunamoon.github.io/hugo-mock-landing-page/'
+title = "every now & then"
+author = "Luna Chen"
+copyright = "Luna Chen"
 
 timeZone = 'Europe/London'
 
@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
-themesdir = "../.."
+themesdir = 'node_modules/@filipecarneiro'
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -18,6 +18,14 @@ enableRobotsTXT = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
+  weight = 90
+  
+[[menu.main]]
+  name = "Instagram"
+  pre = "<img src='/images/instagram.svg' width='30' height='30' alt='Instagram'>"
+  url = "https://www.instagram.com/everynowthenn"
+  weight = 90
+
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
