@@ -2,71 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/</loc>
-    <lastmod>2025-02-09T18:09:29-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/contact/</loc>
-    <lastmod>2025-02-09T18:09:29-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/about/</loc>
-    <lastmod>2025-02-08T21:54:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tunamoon.github.io/hugo-mock-landing-page/authors/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/bootstrap/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tunamoon.github.io/hugo-mock-landing-page/categories/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/page/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/index/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/post/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/privacy/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/privacy-policy/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tunamoon.github.io/hugo-mock-landing-page/series/</loc>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/authors/luna-chen/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/</loc>
-    <lastmod>2025-02-08T18:35:33-05:00</lastmod>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/categories/the-bootstrap-blog/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/contact/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/about/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/page/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/index/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/post/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/tags/privacy/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/privacy-policy/</loc>
+    <lastmod>2025-02-10T15:47:08-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tunamoon.github.io/hugo-mock-landing-page/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
