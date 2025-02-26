@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: https://http:/llaichee0416.website.github.io/hugo-mock-landing-page-domain-name/sitemap.xml
+Sitemap: https://llaichee0416.website.github.io/hugo-mock-landing-page-domain-name/sitemap.xml
